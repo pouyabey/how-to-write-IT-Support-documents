@@ -8,6 +8,15 @@ How to [write the task here, like connect to Wi-Fi]
 
 The purpose of this guide is to help users [complete the task or solve the issue] by following clear step-by-step instructions.
 
+## Recommended How-To Guide Template
+
+A useful reference for this document is the Scribe Standard Step-by-Step Guide Template. This template is designed for creating clear step-by-step instructions for completing a task or process.
+
+Scribe Standard Step-by-Step Guide Template:
+https://scribe.com/library/step-by-step-guide-template
+
+This template is useful for IT support documentation because it focuses on an introduction, overview, process steps, and clear instructions that users can follow.
+
 
 ## 👥 Audience
 
