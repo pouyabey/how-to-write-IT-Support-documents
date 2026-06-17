@@ -17,6 +17,7 @@ https://www.atlassian.com/software/confluence/templates/how-to-article
 
 Although this template is designed for Confluence, its structure can also be used as a reference for GitHub Markdown documentation, internal IT documentation, or help desk knowledge base articles.
 
+
 ## 👥 Audience
 
 This guide is intended for [end users / employees / junior IT technicians].
