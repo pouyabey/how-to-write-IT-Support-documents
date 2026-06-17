@@ -8,7 +8,7 @@ Using templates helps you to write IT documentation quickly, keep it organized, 
 
 - [How-To Guide Template](templates/how-to-guide-template.md) | Completed
 - [Knowledge Base Template](templates/knowledge-base-template.md) | Coming soon
-- [Inventory Template](templates/inventory-template.md) | Coming soon 
+- [Inventory Template](templates/inventory-template.md) | Completed
 
 ## 1. Describe the Purpose and Audience
 
