@@ -8,14 +8,16 @@ How to [write the task here, like connect to Wi-Fi]
 
 The purpose of this guide is to help users [complete the task or solve the issue] by following clear step-by-step instructions.
 
-## Recommended How-To Guide Template
+## Recommended Documentation Format
 
-A useful reference for this document is the Atlassian How-to Article Template. This template is designed for writing clear step-by-step instructions that help users complete a task or solve a common issue.
+A good format for this how-to guide is Markdown. Markdown is a simple, portable documentation format that can be used in GitHub, GitLab, internal documentation pages, wikis, and many other platforms.
 
-Atlassian How-to Article Template:
-https://www.atlassian.com/software/confluence/templates/how-to-article
+Recommended reference:
 
-Although this template is designed for Confluence, its structure can also be used as a reference for GitHub Markdown documentation, internal IT documentation, or help desk knowledge base articles.
+Markdown Guide - Basic Syntax
+https://www.markdownguide.org/basic-syntax/
+
+This guide is useful because it explains how to create headings, lists, links, tables, code blocks, and other formatting elements that are commonly used in technical documentation.
 
 
 ## 👥 Audience
