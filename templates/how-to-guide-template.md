@@ -8,17 +8,6 @@ How to [write the task here, like connect to Wi-Fi]
 
 The purpose of this guide is to help users [complete the task or solve the issue] by following clear step-by-step instructions.
 
-## Recommended Documentation Format
-
-A good format for this how-to guide is Markdown. Markdown is a simple, portable documentation format that can be used in GitHub, GitLab, internal documentation pages, wikis, and many other platforms.
-
-Recommended reference:
-
-Markdown Guide - Basic Syntax
-https://www.markdownguide.org/basic-syntax/
-
-This guide is useful because it explains how to create headings, lists, links, tables, code blocks, and other formatting elements that are commonly used in technical documentation.
-
 
 ## 👥 Audience
 
