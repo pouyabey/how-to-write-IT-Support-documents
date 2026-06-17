@@ -8,6 +8,23 @@ Inventory Document for [write the item category here, like IT Equipment, Laptops
 
 The purpose of this inventory document is to track, organize, and maintain accurate records of [equipment/assets/items] used by the organization.
 
+## Recommended Microsoft Templates
+
+A good starting point for this inventory document is to use Microsoft inventory and asset tracking templates. Microsoft provides free Excel inventory templates that can be customized for IT equipment, laptops, monitors, printers, scanners, network devices, and other company assets.
+
+Recommended templates:
+
+- Microsoft Excel Inventory Templates  
+  https://excel.cloud.microsoft/create/en/inventory-templates/
+
+- Microsoft Create Inventory Templates  
+  https://create.microsoft.com/en-us/templates/inventories
+
+- Microsoft Access Asset Tracking Template  
+  https://support.microsoft.com/en-us/office/use-the-access-asset-tracking-template-6e99a32c-fbda-48a2-89b0-ef0d68b381ec
+
+For simple IT inventory tracking, Excel is usually the easiest option. For more detailed asset tracking, Microsoft Access Asset Tracking can be used to manage computers, office equipment, ownership, condition, location, and maintenance records.
+
 ## Audience
 
 This document is intended for [IT staff / help desk technicians / inventory managers / department supervisors].
