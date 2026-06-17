@@ -14,14 +14,14 @@ This document is intended for [IT staff / help desk technicians / inventory mana
 
 ## Inventory Information
 
-```
+
 
 | Item Name | Asset Tag | Serial Number | Model | Assigned User | Location | Status | Notes |
 |----------|-----------|---------------|-------|---------------|----------|--------|-------|
 | [Laptop] | [A-001] | [Serial number] | [Dell Latitude 5420] | [Employee name] | [Office 101] | [In Use] | [Any notes] |
 | [Monitor] | [A-002] | [Serial number] | [HP Monitor] | [Employee name] | [Front Desk] | [Available] | [Any notes] |
 
-```
+
 
 ## Device / Asset Details
 
