@@ -8,6 +8,15 @@ How to [write the task here, like connect to Wi-Fi]
 
 The purpose of this guide is to help users [complete the task or solve the issue] by following clear step-by-step instructions.
 
+## Recommended How-To Guide Template
+
+A useful reference for this document is the Atlassian How-to Article Template. This template is designed for writing clear step-by-step instructions that help users complete a task or solve a common issue.
+
+Atlassian How-to Article Template:
+https://www.atlassian.com/software/confluence/templates/how-to-article
+
+Although this template is designed for Confluence, its structure can also be used as a reference for GitHub Markdown documentation, internal IT documentation, or help desk knowledge base articles.
+
 ## 👥 Audience
 
 This guide is intended for [end users / employees / junior IT technicians].
