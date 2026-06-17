@@ -11,19 +11,14 @@ How to Reset a User Password in Active Directory
 
 The purpose of this knowledge base article is to help [end users / IT staff / help desk technicians] resolve or complete [describe the issue or task] using clear step-by-step instructions.
 
-## Recommended Knowledge Base Templates
+## Recommended Knowledge Base Template
 
-A good starting point for writing this knowledge base article is to review professional IT service management and help center templates. These templates help keep documentation clear, consistent, and easy to follow.
+A good starting point for writing this knowledge base article is the Zendesk Knowledge Base Article Template. Zendesk provides practical guidance for writing clear, organized, and user-friendly knowledge base articles.
 
-Recommended templates:
+Zendesk Knowledge Base Article Templates:
+https://www.zendesk.com/blog/help-center/knowledge-base/knowledge-base/knowledge-base-article-template/
 
-- Atlassian IT Service Management Knowledge Base Templates  
-  https://www.atlassian.com/software/confluence/templates/collections/knowledge-base
-
-- Zendesk Knowledge Base Article Templates  
-  https://www.zendesk.com/blog/help-center/knowledge-base/knowledge-base/knowledge-base-article-template/
-
-For IT support documentation, Atlassian is especially useful because it focuses on IT Service Management knowledge base templates. Zendesk is also helpful because it provides practical guidance for writing clear, user-friendly knowledge base articles.
+This template is useful for IT support documentation because it focuses on clear structure, easy-to-follow steps, and helping users quickly find a solution.
 
 
 ## Audience
