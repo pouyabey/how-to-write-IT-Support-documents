@@ -7,7 +7,7 @@ Good IT documentation should be clear, organized, and written for the right audi
 Using templates helps you to write IT documentation quickly, keep it organized, and maintain the same format across all documents.
 
 - [How-To Guide Template](templates/how-to-guide-template.md) | Completed
-- [Knowledge Base Template](templates/knowledge-base-template.md) | Coming soon
+- [Knowledge Base Template](templates/knowledge-base-template.md) | Completed
 - [Inventory Template](templates/inventory-template.md) | Completed
 
 ## 1. Describe the Purpose and Audience
