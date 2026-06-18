@@ -51,6 +51,18 @@ Before starting the setup, verify that:
 - Required software list is available
 - Network, printer, and access requirements are confirmed
 
+## Data Transfer
+
+If replacing an old computer:
+
+- Back up required files from the old device
+- Transfer documents, desktop files, and required folders
+- Transfer browser bookmarks if needed
+- Transfer Outlook signatures if needed
+- Verify transferred data with the user
+- Document any files that could not be transferred
+
+
 ## Setup Checklist
 
 Complete the following setup steps:
@@ -80,16 +92,6 @@ Complete the following setup steps:
 | VPN Client | Yes / No | Yes / No | Yes / No | [Notes] |
 | Department App | Yes / No | Yes / No | Yes / No | [Notes] |
 
-## Data Transfer
-
-If replacing an old computer:
-
-- Back up required files from the old device
-- Transfer documents, desktop files, and required folders
-- Transfer browser bookmarks if needed
-- Transfer Outlook signatures if needed
-- Verify transferred data with the user
-- Document any files that could not be transferred
 
 ## Final Verification
 
