@@ -1,4 +1,4 @@
-# New Computer Deployment Checklist
+# New Workstation Setup Checklist
 
 ## Purpose
 
