@@ -9,7 +9,7 @@ Using templates helps you to write IT documentation quickly, keep it organized, 
 - [How-To Guide Template](templates/how-to-guide-template.md) | Completed
 - [Knowledge Base Template](templates/knowledge-base-template.md) | Completed
 - [Inventory Template](templates/inventory-template.md) | Completed
-- [New Workstation Setup Checklist](templates/new-workstation-setup-checklist.md) | Coming Soon
+- [New Workstation Setup Checklist](templates/newworkstation-setup-checklist.md) | Coming Soon
 - [Troubleshooting Checklist Template](templates/troubleshooting-checklist-template.md) | Coming Soon
 - [Ticket Documentation Template](templates/ticket-documentation-template.md) | Coming Soon
 - [User Account Request Form Template](templates/user-account-request-form-template.md) | Coming Soon
